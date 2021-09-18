@@ -1,0 +1,35 @@
+.navbarWrapper {
+    padding: 20px 10px;
+}
+
+.dark {
+    background-color: #1a202c !important;
+    color: #fafafa !important;
+    min-height: 100vh;
+}
+
+.light {
+    background-color: #fafafa !important;
+    color: #1a202c !important;
+    min-height: 100vh;
+}
+
+.btn-dark {
+    background-color: #1a202c !important;
+    color: #fafafa !important;
+}
+
+.btn-light {
+    background-color: #fafafa !important;
+    color: #1a202c !important;
+}
+
+.card-dark {
+    background-color: #1a202c !important;
+    color: #fafafa !important;
+    border: 1px solid lightgrey !important;
+}
+.card-light {
+    background-color: #fafafa !important;
+    color: #1a202c !important;
+}

@@ -1,0 +1,1 @@
+export const getCounter = async () => 0;
